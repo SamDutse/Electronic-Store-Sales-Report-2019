@@ -1,6 +1,6 @@
 # Sales-Analysis-and-Visualization-for-Electronic-Products
 ## INTRODUCTION
-I used a third party data obtained from Kaggle, which i use in obtaining insight using Excel  and carrying out visualization using Excel and Tableau.
+I used a third party data obtained from Kaggle, which i use in obtaining insight using Excel  and carrying out visualization using Excel.
 The key insight gotten associated with the business questions that needed to be answered are:
 
 ## DATA ANALYSIS/VISUALIZATION
